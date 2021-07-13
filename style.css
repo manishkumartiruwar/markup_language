@@ -4,8 +4,8 @@
     overflow-x: hidden;
 }
 .game{
-    width: 1000px;
-    height: 500px;
+    width: 500px;
+    height: 200px;
     border: 1px solid black;
     margin: auto;
 }
